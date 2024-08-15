@@ -12,13 +12,13 @@ body {
     align-items: center;
     
 }
-.main-content{
+.main-content{ 
     display: flex;
-    flex-direction: column;
-
+    flex-direction: column;    
     align-content: center;
     text-align:center ;
-    align-items: center;
+    align-items: center;   
+   
 }
 .tv{
     display: flex;
